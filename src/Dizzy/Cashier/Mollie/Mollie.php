@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: paulh
- * Date: 2-3-2017
- * Time: 15:35
- */
 
 namespace Dizzy\Cashier\Mollie;
 
